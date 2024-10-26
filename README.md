@@ -80,15 +80,3 @@ The project evaluates the performance of the three models and compares their ROC
    python spam_classification.py
    ```
 
-## Conclusion
-
-This project demonstrates a complete workflow for spam classification using machine learning. The steps from data preprocessing to model evaluation are essential for building a robust spam classifier.
-
-## Acknowledgments
-
-- Thanks to the contributors of the libraries used in this project.
-- The dataset is a public resource and can be found on various data repository websites.
-
----
-
-Feel free to modify or extend this README to better suit your project's needs!
